@@ -1,5 +1,4 @@
-# weatherapp
-
+# Weather App
 > A Vue.js, Firebase and Node.js Weather App project with client side and server side.
 
 
