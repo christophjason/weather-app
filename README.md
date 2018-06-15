@@ -3,6 +3,8 @@
 
 
 ## Build Setup
+Before deploying, install node.js at nodejs.org
+Open cmd and enter node install
 
 ``` bash
 # install dependencies
